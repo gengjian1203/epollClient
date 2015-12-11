@@ -7,4 +7,4 @@ Compiler: Qt Creator 3.0.1、QT5.2.1
 
 Language: C++
 
-KeyWord： 1)TCP 2)Thread 3)OO
+KeyWord： 1)TCP 2)Thread 3)Ring Buffer.
